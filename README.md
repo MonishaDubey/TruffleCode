@@ -1,2 +1,7 @@
 # TruffleCode
-Trading Dapp
+Trading Dapp :-  An application in a blockchain-based distributed ledger system. Most notably, smart contracts in the Ethereum blockchain are called dApps.
+
+####  Blockchain was basically technology only based on money transaction , bitcoin as developed by Satoshi Nakamoto . One of extremely searched topic in recent years and probably upcoming years. Earlier blockchain was used by small firms and small number of people within peer-to-peer distribution ledger technology. ####
+
+  ----Blockchain has not only attracted bankers but also developers , miner, government interest officials, entrepreneurs and many more people worldwide. One can say Blockchain as new era . They proposed to shift power to mainly Developers and business sector of firms .
+Some firms also opposed this method to get adopted as no one can assure security , no third member will be responsible also third party income cannot be obtained through using blockchain . Applications will earn transacting money and detailed information between parties were at large loss . But still hype around world taking blockchain in account is very impressive . What exactly blockchain is ? What does it offer ? Can blockchain bring some amazing diversities in industries project handling way ? And doesn’t having bitcoin mean that you are already pro for blockchain . To examine claims , we are adhered lots of lies in front of world and many need to cognize and confusion about blockchain.
